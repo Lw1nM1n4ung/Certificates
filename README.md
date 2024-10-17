@@ -24,6 +24,10 @@
 
 ![Web Application Security And Testing](https://github.com/Lw1nM1n4ung/Certificates/blob/master/TCM_Security/web-application-security-and-testing.png)
 
+![Linux100](https://github.com/Lw1nM1n4ung/Certificates/blob/master/TCM_Security/Linux_100.png)
+
+![programming 100 fundamentals](https://github.com/Lw1nM1n4ung/Certificates/blob/master/TCM_Security/programming%20100%20fundamentals.png)
+
 ## 
 ### Try Hack Me
 
