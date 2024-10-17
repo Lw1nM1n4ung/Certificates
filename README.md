@@ -31,8 +31,15 @@
 
 ![Pre Security](https://github.com/Lw1nM1n4ung/Certificates/blob/master/TryHackMe/Pre_security.png)
 
+![Complete Beginner](https://github.com/Lw1nM1n4ung/Certificates/blob/master/TryHackMe/Complete_Beginner.png)
+
+![Web Fundamentals](https://github.com/Lw1nM1n4ung/Certificates/blob/master/TryHackMe/Web_Fundamentals.png)
+
+![Jr Penetration Tester](https://github.com/Lw1nM1n4ung/Certificates/blob/master/TryHackMe/Jr_Penetration_Tester.png)
+
 ## 
 ### Udemy
+
 ![Broad Scope Bug Bounties From Scratch](https://github.com/Lw1nM1n4ung/Certificates/blob/master/Udemy/Broad%20Scope%20Bug%20Bounties%20From%20Scratch.png)
 
 ![Earn Money Legally Using Pentesting](https://github.com/Lw1nM1n4ung/Certificates/blob/master/Udemy/Earn-Money-Legally-Using-Pentesting.png)
@@ -47,3 +54,15 @@
 ### Eccouncil
 
 ![SQL Injection Attacks](https://github.com/Lw1nM1n4ung/Certificates/blob/master/Eccouncil/SQL%20Injection%20Attacks.png)
+
+![Hands-on Penetration Testing with BlackArch Linux](https://github.com/Lw1nM1n4ung/Certificates/blob/master/Eccouncil/Hands-on_Penetration_Testing_with_BlackArch_Linux.png)
+
+## 
+### Trend Micro
+
+![Trend Campus Foundation](https://github.com/Lw1nM1n4ung/Certificates/blob/master/Trend_Micro/Trend_Campus_Foundation.jpeg)
+
+![Securing Mobile Devices For Vision One Adminstrators](https://github.com/Lw1nM1n4ung/Certificates/blob/master/Trend_Micro/Securing_Mobile_Devices_For_Vision_One_Adminstrators.jpeg)
+
+![Deep Security 20 Technical Essentials](https://github.com/Lw1nM1n4ung/Certificates/blob/master/Trend_Micro/Deep_Security_20_Technical_Essentials.jpeg)
+
